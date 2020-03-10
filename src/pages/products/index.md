@@ -82,8 +82,8 @@ pricing:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
-      price: '50'
+      plan: Smaaall
+      price: 5g0
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
