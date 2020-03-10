@@ -98,4 +98,9 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+    - plan: er
+      price: reg
+      description: er
+      items:
+        - ger
 ---
